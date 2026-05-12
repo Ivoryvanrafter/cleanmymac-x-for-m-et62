@@ -1,4 +1,4 @@
-
+Enhance CleanMyMac X for macOS with custom CleanMyMac X for macOS Workflow | file-encryption + snapshot-rollback, the #1 workflow. Includes file-encryption and snapshot-rollback
 
 
 
